@@ -1,0 +1,10 @@
+Best To Worst Complexity
+
+n = 1000;
+
+Constant :     O(1);
+Linear   :     O(n);
+Logarithmic :  O(logn);
+quadratic :    O(n*n);
+Square Root :  O(sqrt(n));
+Linearithmic : O(nlogn);
